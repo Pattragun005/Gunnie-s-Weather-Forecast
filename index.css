@@ -4,7 +4,15 @@ h1{
     font-family: 'Permanent Marker', cursive;
     
 }
-#datapanel{
-
-
+.btn btn-success{
+    text-align: right;
+}
+#phuket{
+    background-color:lavender;
+}
+#temp{
+    background-color:#6060FB;
+}
+.row.space{
+    margin-left: 5px;
 }
