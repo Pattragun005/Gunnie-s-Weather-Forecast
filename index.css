@@ -16,3 +16,6 @@ h1{
 .row.space{
     margin-left: 5px;
 }
+td{
+    width: 150px;
+}
